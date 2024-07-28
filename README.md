@@ -36,7 +36,8 @@ I'm a 3d year software engineering student at Kazan Federal University, a progra
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
         </picture>
         </a>
-</p>### Badges<b>My GitHub Stats</b>
+</p>
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/Tomax47">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomax47&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
