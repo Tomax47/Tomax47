@@ -37,10 +37,10 @@ I'm a 3d year software engineering student at Kazan Federal University, a progra
         </picture>
         </a>
 </p>
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/Tomax47">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomax47&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-<a href="http://www.github.com/Tomax47">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tomax47&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+<p>My GitHub Stats</p>
+  <a href="http://www.github.com/Tomax47">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomax47&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <a href="http://www.github.com/Tomax47">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tomax47&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
