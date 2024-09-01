@@ -1,50 +1,116 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Tomax47 here
-==============================================================================================================================
+<!--Banner-->
+![Tomax's banner image](https://github.com/tomax47/tomax47/blob/main/assets/bat-banner-vik.jpg?raw=true)
 
-Full stack Ruby on Rails & React JS developer
----------------------------------------------
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-I'm a 3d year software engineering student at Kazan Federal University, a programming passionate, cyber security enthusiast, and a blogger
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! It's Tomax47
+*Full Stack Developer*
+<br /> 
 
-*   🌍  I'm based in Russia, Kazan
-*   🖥️  Checkout my website [bat-hat.com](https://www.bat-hat.com)
-*   ✉️  You can contact me at [tammam744@gmail.com](mailto:tammam744@gmail.com)
-*   🧠  I'm currently trying NextJS, GoLang, & Prisma
-### My Skills
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
-</p>            
-      
-### Techs I've worked with
-<p align="left">
-<a href="[https://spring.io/projects/spring-boot](https://www.prisma.io)" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/></a>
-<a href="[https://spring.io/projects/spring-boot](https://nextjs.org)" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/></a>
+<!--Start Intro-->               
+<p align="left">I am a Ruby on Rails & React JS Full Stack Developer, software engineering student, cyber security enthusiast, and a Blogger 'Sometimes' </p>
+
+- 👨🏻‍💻 Working as a fullstack web developer
+- </> Flexible to learning/working with new techs and languages 
+- 🤖 Currently using python, RoR, NextJS, and Python
+- ⚡ Diving into NextJS & Prisma 
+- 🌐 You can take a look at my blogs at [bat-hat.com](https://www.bat-hat.com).
+<!--End Intro-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Languages-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Frameworks</h2> 
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=ruby,py,java,js,html,css,graphql,bootstrap,tailwind,rails,react,nodejs,spring,&perline=10"  />
 </p>
 
-### Socials
-<p align="left">
-    <a href="https://www.github.com/Tomax47" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="http://www.medium.com/@bat.hat47x" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.stackoverflow.com/users/tomax47" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-        </picture>
+<!--Tools-->       
+<h2 align="center">Tools</h2> 
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=mysql,prisma,postgres,git,github,gitlab,vscode,docker,postman,linux,kali&perline=10"  />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Github stats Table--> 
+<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/tomax47">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomax47&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/tomax47">
+          <img align="center" src="https://streak-stats.demolab.com?user=tomax47&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/tomax47/Alfheinm-Community">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=tomax47&repo=Alfheinm-Community&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/tomax47">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=tomax47&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--Contribution Graph-->
+<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomax47&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">ᚠᚱᛟᛗ ᛏᚺᛖ ᚾᛟᚱᛋᛖ</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hávamál&quote=No%20Battle%20is%20won%20in%20bed.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
-<a href="http://www.github.com/Tomax47">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomax47&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+<!--Contact Section--> 
+
+<h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+<div align="center">
+  
+<a href="mailto:tammam744@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=tammam744@gmail.com mail style="margin-bottom: 5px;" />
 </a>
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
