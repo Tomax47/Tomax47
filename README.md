@@ -1,5 +1,5 @@
 <!--Banner-->
-![Tomax's banner image](https://github.com/tomax47/tomax47/blob/main/assets/bat-banner-vik.jpg?raw=true)
+![Tomax's banner image](https://github.com/tomax47/tomax47/blob/main/assets/bat-banner.jpg?raw=true)
 
 <!--Night Owl image-->
 <div>
