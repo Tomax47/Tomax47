@@ -16,7 +16,7 @@
 
 - 👨🏻‍💻 Working as a fullstack web developer
 - </> Flexible to learning/working with new techs and languages 
-- 🤖 Currently using python, RoR, NextJS, and Python
+- 🤖 Currently using RoR, NextJS, and Python
 - ⚡ Diving into NextJS & Prisma 
 - 🌐 You can take a look at my blogs at [bat-hat.com](https://www.bat-hat.com).
 <!--End Intro-->
