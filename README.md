@@ -63,8 +63,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/tomax47/Alfheinm-Community">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=tomax47&repo=Alfheinm-Community&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/tomax47/gfscoute">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=tomax47&repo=gfscoute&theme=nightowl&show_owner=true" alt="GFScoute tool project" />
         </a>
       </p>
     </td>
