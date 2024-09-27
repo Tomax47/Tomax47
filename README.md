@@ -18,7 +18,7 @@
 - </> Flexible to learning/working with new techs and languages 
 - 🤖 Currently using RoR, NextJS, and Python
 - ⚡ Diving into NextJS & Prisma 
-- 🌐 You can take a look at my blogs at [bat-hat.com](https://www.bat-hat.com).
+- 🌐 You can take a look at my blogs at <a href="https://www.bat-hat.com" target="_blank">bat-hat.com</a>
 <!--End Intro-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
