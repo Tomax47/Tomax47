@@ -26,13 +26,13 @@
 <!--Languages-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Frameworks</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=ruby,py,java,js,html,css,graphql,bootstrap,tailwind,rails,react,nodejs,spring,&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=ruby,py,java,js,html,css,graphql,bootstrap,tailwind,rails,react,nodejs,spring,nextjs,&perline=10"  />
 </p>
 
 <!--Tools-->       
 <h2 align="center">Tools</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=mysql,prisma,postgres,git,github,gitlab,vscode,docker,postman,linux,kali&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=mysql,prisma,postgres,git,github,gitlab,vscode,docker,postman,linux,kali,npm&perline=10"  />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
