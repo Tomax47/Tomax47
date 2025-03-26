@@ -15,9 +15,8 @@
 <p align="left">I am a Ruby on Rails & React JS Full Stack Developer, software engineering student, cyber security enthusiast, and a Blogger 'Sometimes' </p>
 
 - 👨🏻‍💻 Working as a fullstack web developer
-- </> Flexible to learning/working with new techs and languages 
-- 🤖 Currently using RoR, NextJS, and Python
-- ⚡ Diving into NextJS & Prisma 
+- </> Love learning/working with new techs and languages 
+- 🤖 Currently working with RoR, NextJS, and Python
 - 🌐 You can take a look at my blogs at <a href="https://www.bat-hat.com" target="_blank">bat-hat.com</a>
 <!--End Intro-->
 
